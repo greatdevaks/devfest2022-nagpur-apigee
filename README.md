@@ -6,6 +6,9 @@ Anmol Krishan Sachdeva</br>
 Hybrid Cloud Architect, Google</br>
 [LinkedIn@greatdevaks](https://www.linkedin.com/in/greatdevaks) | [Twitter@greatdevaks](https://www.twitter.com/greatdevaks)
 
+**Slide Deck:**</br>
+[Digital Modernization with APIfication using Google Apigee](./Google_Cloud_DevFest_Nagpur_2022_Digital_Modernization_with_APIfication_using_Google_Apigee.pdf)
+
 **References:**
 - [About Apigee](https://cloud.google.com/apigee/docs/api-platform/get-started/what-apigee)
 - [Apigee Runtime Deployment Options](https://cloud.google.com/apigee/docs/api-platform/get-started/compare-apigee-products)
